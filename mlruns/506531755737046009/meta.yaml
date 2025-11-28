@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/Mayur/Documents/MLOPs_Project/customer-churn-mlops/mlruns/506531755737046009
+creation_time: 1764325960079
+experiment_id: '506531755737046009'
+last_update_time: 1764325960079
+lifecycle_stage: active
+name: customer_churn_training

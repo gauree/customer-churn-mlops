@@ -4,3 +4,8 @@ numpy
 dvc
 mlflow
 xgboost
+
+# test dependencies
+pytest
+pytest-cov
+joblib

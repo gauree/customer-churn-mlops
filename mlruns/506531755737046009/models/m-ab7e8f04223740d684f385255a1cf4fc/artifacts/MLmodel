@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/Mayur/Documents/MLOPs_Project/customer-churn-mlops/mlruns/506531755737046009/models/m-ab7e8f04223740d684f385255a1cf4fc/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.6.0
+model_id: m-ab7e8f04223740d684f385255a1cf4fc
+model_size_bytes: 3912
+model_uuid: m-ab7e8f04223740d684f385255a1cf4fc
+prompts: null
+run_id: 9ccf3342d1f3446fbec379e67a145419
+utc_time_created: '2025-11-28 10:32:40.782698'

@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Mayur/Documents/MLOPs_Project/customer-churn-mlops/mlruns/506531755737046009/models/m-97190162a2ea40b582b572064cf56bee/artifacts
+creation_timestamp: 1764325977930
+experiment_id: '506531755737046009'
+last_updated_timestamp: 1764325983373
+model_id: m-97190162a2ea40b582b572064cf56bee
+model_type: null
+name: model
+source_run_id: a48eea64d665457ab198bc204edbd99c
+status: 2
+status_message: null

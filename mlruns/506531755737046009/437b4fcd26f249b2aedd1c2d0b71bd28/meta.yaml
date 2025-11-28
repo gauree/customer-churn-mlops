@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Mayur/Documents/MLOPs_Project/customer-churn-mlops/mlruns/506531755737046009/437b4fcd26f249b2aedd1c2d0b71bd28/artifacts
+end_time: 1764327607789
+entry_point_name: ''
+experiment_id: '506531755737046009'
+lifecycle_stage: active
+run_id: 437b4fcd26f249b2aedd1c2d0b71bd28
+run_name: xgboost
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764327602859
+status: 3
+tags: []
+user_id: Mayur
