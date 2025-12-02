@@ -5,6 +5,9 @@ dvc
 mlflow
 xgboost
 Flask
+streamlit
+seaborn
+matplotlib
 
 # test dependencies
 pytest
