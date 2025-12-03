@@ -5,6 +5,7 @@ dvc
 mlflow
 xgboost
 Flask
+evidently==0.4.28
 
 # test dependencies
 pytest

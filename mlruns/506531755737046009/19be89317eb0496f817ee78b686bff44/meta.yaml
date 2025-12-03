@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Mayur/Documents/MLOPs_Project/customer-churn-mlops/mlruns/506531755737046009/19be89317eb0496f817ee78b686bff44/artifacts
+end_time: 1764761893311
+entry_point_name: ''
+experiment_id: '506531755737046009'
+lifecycle_stage: active
+run_id: 19be89317eb0496f817ee78b686bff44
+run_name: random_forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764761887939
+status: 3
+tags: []
+user_id: Mayur
