@@ -8,6 +8,7 @@ Flask
 streamlit
 seaborn
 matplotlib
+evidently
 
 # test dependencies
 pytest
