@@ -1,6 +1,6 @@
 import os
 
-from flask import Flask, request, jsonify, Response
+from flask import Flask, request, jsonify, Response, render_template
 import joblib
 import pandas as pd
 
@@ -28,6 +28,12 @@ def load_model():
             )
         _MODEL = joblib.load(model_path)
     return _MODEL
+
+
+@app.route("/", methods=["GET"])
+def index() -> Response:
+    """Serve the landing page for customer churn prediction."""
+    return render_template("index.html")
 
 
 @app.route("/health", methods=["GET"])
